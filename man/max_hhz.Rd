@@ -16,7 +16,7 @@ y
 a function that returns maximum value
 }
 \examples{
-max_hhz(c(1,4,NA,10,-500))
+max_hhz(c(1,4,10,-500))
 }
 \author{
 Lehang Zhong
